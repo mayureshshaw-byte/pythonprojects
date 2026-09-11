@@ -1,4 +1,4 @@
-package defaultpackage;
+/counts words ands consonants
 
 import java.util.Scanner;
 
