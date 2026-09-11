@@ -1,3 +1,4 @@
+#password generator
 import random
 input= input ("click Y/N to generate your password   ")
 string="qwertyuiopasdfghjklzxcvbnm"
